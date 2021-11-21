@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/stage-7-task-2-react/static/css/main.fd23b507.chunk.css",
+    "main.js": "/stage-7-task-2-react/static/js/main.01e392a7.chunk.js",
+    "main.js.map": "/stage-7-task-2-react/static/js/main.01e392a7.chunk.js.map",
+    "runtime-main.js": "/stage-7-task-2-react/static/js/runtime-main.f16502fb.js",
+    "runtime-main.js.map": "/stage-7-task-2-react/static/js/runtime-main.f16502fb.js.map",
+    "static/css/2.673ed84c.chunk.css": "/stage-7-task-2-react/static/css/2.673ed84c.chunk.css",
+    "static/js/2.bb2b7eb9.chunk.js": "/stage-7-task-2-react/static/js/2.bb2b7eb9.chunk.js",
+    "static/js/2.bb2b7eb9.chunk.js.map": "/stage-7-task-2-react/static/js/2.bb2b7eb9.chunk.js.map",
+    "index.html": "/stage-7-task-2-react/index.html",
+    "static/css/2.673ed84c.chunk.css.map": "/stage-7-task-2-react/static/css/2.673ed84c.chunk.css.map",
+    "static/css/main.fd23b507.chunk.css.map": "/stage-7-task-2-react/static/css/main.fd23b507.chunk.css.map",
+    "static/js/2.bb2b7eb9.chunk.js.LICENSE.txt": "/stage-7-task-2-react/static/js/2.bb2b7eb9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f16502fb.js",
+    "static/css/2.673ed84c.chunk.css",
+    "static/js/2.bb2b7eb9.chunk.js",
+    "static/css/main.fd23b507.chunk.css",
+    "static/js/main.01e392a7.chunk.js"
+  ]
+}
