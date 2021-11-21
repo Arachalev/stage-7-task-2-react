@@ -1,0 +1,9 @@
+.navbar-light .navbar-brand {
+  font-size: 48px;
+  font-weight: 900;
+  line-height: 72px;
+  letter-spacing: 1px;
+}
+button {
+  font-weight: 600 !important;
+}

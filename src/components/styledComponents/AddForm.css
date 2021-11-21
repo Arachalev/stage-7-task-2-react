@@ -1,0 +1,16 @@
+.addForm svg {
+  height: 3rem;
+  width: 3rem;
+}
+.addForm svg:hover {
+  cursor: pointer;
+}
+.addForm .h4 {
+  font-weight: 900 !important;
+  font-size: 48px !important;
+}
+.addForm p {
+  font-size: 10px;
+  opacity: 0.8;
+  font-weight: 200;
+}

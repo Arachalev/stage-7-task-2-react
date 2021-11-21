@@ -1,0 +1,60 @@
+.fullSize {
+  width: 100%;
+}
+.halfSize {
+  max-width: 85%;
+}
+.card {
+  height: 200px;
+  width: 270px;
+  border-radius: 16px !important;
+}
+.cardImg {
+  display: grid;
+  place-items: center;
+}
+.cardImg img {
+  height: 120px;
+  width: 120px;
+}
+.cardText {
+  position: absolute;
+  bottom: 5%;
+  left: 3%;
+}
+.card p {
+  font-weight: 600;
+  margin: 0;
+  padding: 0;
+}
+.card h6 {
+  font-size: 12px;
+  margin: 0;
+  padding: 0;
+}
+.posi {
+  position: absolute;
+  right: 15%;
+  bottom: 7%;
+}
+.btn-close {
+  display: flex;
+  right: 0;
+}
+.sidebar h2 {
+  font-weight: 900;
+}
+.sidebar h6 {
+  font-weight: 600;
+}
+.box {
+  border-radius: 30px;
+  background-color: white;
+  width: 100px;
+  height: auto;
+  cursor: pointer;
+}
+.sidebar .icon {
+  height: 35px;
+  width: 35px;
+}
